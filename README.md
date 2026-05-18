@@ -14,6 +14,7 @@ Brings you to your desktop I think before randomly moving your cursor around
 5. Enter password
 6. Enjoy
 
+# Build from source
 1. Download Xcode project
 2. Open in Xcode
 3. Build in Xcode
